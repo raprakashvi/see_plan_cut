@@ -3,7 +3,9 @@
 
 **Accepted at ICRA 2026**
 
-*Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman*
+*Ravi Prakash\*, Vincent Y. Wang\*, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman*
+
+<sub>\* Equal contribution</sub>
 
 [![Paper](https://img.shields.io/badge/arXiv-2511.17777-b31b1b.svg)](https://arxiv.org/abs/2511.17777)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://raprakashvi.github.io/see-plan-cut/)
